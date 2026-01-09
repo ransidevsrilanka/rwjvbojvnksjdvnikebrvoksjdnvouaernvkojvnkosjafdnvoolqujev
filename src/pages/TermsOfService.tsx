@@ -28,7 +28,7 @@ const TermsOfService = () => {
                 1. Acceptance of Terms
               </h2>
               <p className="text-muted-foreground leading-relaxed">
-                By accessing or using Notebase ("the Service"), you agree to be bound by these Terms of Service. If you do not agree to all terms and conditions, you must not use our services. We reserve the right to modify these terms at any time without prior notice. Continued use of the Service constitutes acceptance of any modifications.
+                By accessing or using Course Master ("the Service"), you agree to be bound by these Terms of Service. If you do not agree to all terms and conditions, you must not use our services. We reserve the right to modify these terms at any time without prior notice. Continued use of the Service constitutes acceptance of any modifications.
               </p>
             </section>
 
@@ -75,7 +75,7 @@ const TermsOfService = () => {
                 4. Intellectual Property Rights
               </h2>
               <p className="text-muted-foreground leading-relaxed">
-                All content on Notebase, including but not limited to study notes, videos, graphics, logos, and software, is the exclusive property of Notebase or its licensors and is protected by copyright and intellectual property laws. You are granted a limited, non-exclusive, non-transferable license to access content for personal, non-commercial educational use only. Any reproduction, distribution, modification, public display, or commercial exploitation of our content is strictly prohibited and may result in legal action.
+                All content on Course Master, including but not limited to study notes, videos, graphics, logos, and software, is the exclusive property of Course Master or its licensors and is protected by copyright and intellectual property laws. You are granted a limited, non-exclusive, non-transferable license to access content for personal, non-commercial educational use only. Any reproduction, distribution, modification, public display, or commercial exploitation of our content is strictly prohibited and may result in legal action.
               </p>
             </section>
 
@@ -112,7 +112,7 @@ const TermsOfService = () => {
                 7. Limitation of Liability
               </h2>
               <p className="text-muted-foreground leading-relaxed">
-                TO THE MAXIMUM EXTENT PERMITTED BY LAW, NOTEBASE SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS, DATA, OR OTHER INTANGIBLE LOSSES, RESULTING FROM YOUR USE OR INABILITY TO USE THE SERVICE. OUR TOTAL LIABILITY SHALL NOT EXCEED THE AMOUNT PAID BY YOU IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM.
+                TO THE MAXIMUM EXTENT PERMITTED BY LAW, COURSE MASTER SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS, DATA, OR OTHER INTANGIBLE LOSSES, RESULTING FROM YOUR USE OR INABILITY TO USE THE SERVICE. OUR TOTAL LIABILITY SHALL NOT EXCEED THE AMOUNT PAID BY YOU IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM.
               </p>
             </section>
 
@@ -121,7 +121,7 @@ const TermsOfService = () => {
                 8. Indemnification
               </h2>
               <p className="text-muted-foreground leading-relaxed">
-                You agree to indemnify, defend, and hold harmless Notebase, its officers, directors, employees, and agents from any claims, damages, losses, liabilities, costs, and expenses (including legal fees) arising from your use of the service, violation of these terms, or infringement of any third-party rights.
+                You agree to indemnify, defend, and hold harmless Course Master, its officers, directors, employees, and agents from any claims, damages, losses, liabilities, costs, and expenses (including legal fees) arising from your use of the service, violation of these terms, or infringement of any third-party rights.
               </p>
             </section>
 

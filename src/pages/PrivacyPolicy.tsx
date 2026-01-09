@@ -28,7 +28,7 @@ const PrivacyPolicy = () => {
                 1. Introduction
               </h2>
               <p className="text-muted-foreground leading-relaxed">
-                Welcome to Notebase ("we," "our," or "us"). We are committed
+                Welcome to Course Master ("we," "our," or "us"). We are committed
                 to protecting your personal information and your right to
                 privacy. This Privacy Policy explains how we collect, use,
                 disclose, and safeguard your information when you use our
