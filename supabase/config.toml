@@ -1,0 +1,22 @@
+project_id = "csqqorcnrwkkwpfbravh"
+
+[functions.payhere-checkout]
+verify_jwt = false
+
+[functions.payhere-refund]
+verify_jwt = false
+
+[functions.admin-finance]
+verify_jwt = false
+
+[functions.admin-purge-data]
+verify_jwt = false
+
+[functions.serve-pdf]
+verify_jwt = false
+
+[functions.send-upgrade-telegram]
+verify_jwt = false
+
+[functions.send-telegram-notification]
+verify_jwt = false
